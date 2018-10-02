@@ -47,13 +47,14 @@ body {
   vertical-align: top;
   width: 50%;
 
-
 }
 
 .box-content {
   font-family: 'Heebo', sans-serif;
   font-weight: 100;
+  text-align: center;
 }
+
 
 h1 {
   font-size: 22px;
