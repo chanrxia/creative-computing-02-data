@@ -54,6 +54,8 @@ body {
 h1 {
   font-size: 22px;
   margin-bottom: none;
+  line-height: 1.2;
+  
 }
 
 p {
