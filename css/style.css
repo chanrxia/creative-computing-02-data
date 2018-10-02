@@ -29,7 +29,8 @@ body {
 
 .center {
   position: absolute;
-  transform: translate(-50%,-50%);
+  top: 50%;
+  left: 50%;
   height: auto;
   width: auto;
 }
