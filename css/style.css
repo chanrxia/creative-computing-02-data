@@ -24,7 +24,7 @@ body {
 .content {
   font-size: 0;
   height: 100%;
-  position: relative;
+  position: absolute;
   width: 100%;
   
 }
@@ -32,7 +32,7 @@ body {
 .center {
   height: auto;
   left: 50%;
-  position: absolute;
+  position: relative;
   top: 50%;
   transform: translate(-50%,-50%);
   width: auto;
@@ -55,11 +55,12 @@ h1 {
   font-size: 22px;
   margin-bottom: none;
   line-height: 1.2;
-  
+
 }
 
 p {
-  font-size: 16px;
+  font-size: 14px;
+
 }
 
 .box-1 {
