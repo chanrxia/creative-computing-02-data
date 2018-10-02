@@ -47,7 +47,9 @@ body {
 }
 
 .box-content {
-  font-size: 18px;
+  font-family: 'Heebo', sans-serif;
+  font-weight: 100;
+  font-size: 22px;
 }
 
 .box-1 {
