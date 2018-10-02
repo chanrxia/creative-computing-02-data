@@ -60,7 +60,7 @@ h1 {
   font-size: 28px;
   font-weight: 100;
   margin-bottom: none;
-  line-height: 1.2;
+  line-height: 1.4;
   text-transform: uppercase;
 
 }
@@ -73,7 +73,7 @@ p {
 
 .box-1 {
   height: 20%;
-  margin-left: 20px;
+  margin-left: 30px;
   margin-top: 40px;
   padding: 2px 2px 2px 2px;
   width: 24%;
