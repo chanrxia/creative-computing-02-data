@@ -55,8 +55,8 @@ body {
   width: 20%;
   height: 20%;
   border: 2px solid lightgray;
-  padding: 0;
-  
+  padding: 2px 2px 2px 2px;
+
   font-family: 'Heebo', sans-serif;
   font-size: 18pt;
   font-weight: 100;
