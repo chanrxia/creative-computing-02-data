@@ -25,6 +25,7 @@ body {
   font-size: 0;
   height: 100%;
   width: 100%;
+  position: relative;
 }
 
 .center {
@@ -53,7 +54,7 @@ body {
 }
 
 i {
-  position: bottom left;
+  
 }
 
 .box-1 {
@@ -65,6 +66,7 @@ i {
   border: 2px solid lightgray;
   padding: 2px 2px 2px 2px;
 
+  position: absolute;
   font-family: 'Heebo', sans-serif;
   font-size: 14pt;
   font-weight: 100;
