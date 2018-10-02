@@ -44,6 +44,7 @@ body {
   border-radius: 20px;
   color: white;
   display: block;
+  position: absolute;
   vertical-align: top;
   width: 50%;
 
@@ -110,7 +111,7 @@ p {
 }
 
 .box-5 {
-  height: 20%;
+  height: 25%;
   width: 14vw;
   margin-left: 200px;
   margin-top: 5px;
