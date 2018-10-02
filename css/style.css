@@ -87,12 +87,13 @@ p {
 }
 
 .box-3 {
-  background-color: transparent;
+  background-color: lightgray;
   border: 2px solid lightgray;
   height: 30%;
   width: 31%;
   margin-top: 10px;
   margin-left: 10px;
+  opacity: 20%;
   padding: 2px 2px 2px 2px;
   position: absolute;
   transform: translate(-50%,-50%);
