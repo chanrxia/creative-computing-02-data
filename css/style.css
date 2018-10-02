@@ -54,6 +54,8 @@ body {
   background-color: transparent;
   width: 20%;
   height: 20%;
+  margin-top: 10px;
+  margin-left: 10px;
   border: 2px solid lightgray;
   padding: 2px 2px 2px 2px;
 
