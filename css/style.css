@@ -32,7 +32,7 @@ body {
 .center {
   height: auto;
   left: 50%;
-  position: relative;
+  position: absolute;
   top: 50%;
   transform: translate(-50%,-50%);
   width: auto;
@@ -43,7 +43,9 @@ body {
   border: 1px solid white;
   border-radius: 15px;
   color: white;
+  display: block;
   vertical-align: top;
+  width: 50%;
 
 }
 
