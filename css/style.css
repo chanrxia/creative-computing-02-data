@@ -39,11 +39,15 @@ body {
 }
 
 .box {
+  background-color: hsl(0, 0%, 83%, 0.3);
+  border: 2px solid lightgray;
   border-radius: 25px;
   color: white;
   display: block;
   vertical-align: top;
   width: 50%;
+
+
 }
 
 .box-content {
@@ -66,8 +70,6 @@ p {
 }
 
 .box-1 {
-  background-color: hsl(0, 0%, 83%, 0.3);
-  border: 2px solid lightgray;
   height: 30%;
   margin-top: 20px;
   margin-left: 20px;
@@ -77,46 +79,37 @@ p {
 }
 
 .box-2 {
-  background-color: hsl(0, 0%, 83%, 0.3);
-  border: 2px solid lightgray;
   height: 30%;
   width: 34%;
   margin-top: 25px;
   margin-left: 500px;
   padding: 0px 10px 0px 10px;
-  transform: translate(-50%,-50%);
   top: 0;
 
 }
 
 .box-3 {
-  background-color: hsl(0, 0%, 83%, 0.3);
-  border: 2px solid lightgray;
   height: 30%;
   width: 31%;
   margin-top: 28px;
   margin-left: 600px;
   padding: 0px 10px 0px 10px;
-  transform: translate(-50%,-50%);
-}
+  
+  }
 
 .box-4 {
-  background-color: hsl(0, 0%, 83%, 0.3);
-  border: 2px solid lightgray;
   height: 30%;
   width: 16%;
   margin-top: 15px;
   margin-left: 300px;
   padding: 0px 10px 0px 10px;
-  transform: translate(-50%,-50%);
+
 }
 
 .box-5 {
-  background-color: hsl(0, 0%, 83%, 0.3);
-  border: 2px solid lightgray;
   height: 30%;
   width: 7%;
   margin-left: 300px;
   padding: 0px 10px 0px 10px;
-  transform: translate(-50%,-50%);
+
 }
