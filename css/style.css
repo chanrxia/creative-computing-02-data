@@ -18,6 +18,7 @@ body {
   background: -webkit-linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
   background: linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa195",endColorstr="#7facff",GradientType=1);
+
 }
 
 .content {
@@ -54,6 +55,11 @@ body {
   width: 20%;
   height: 20%;
   border: 2px solid lightgray;
+  padding: 0;
+  
+  font-family: 'Heebo', sans-serif;
+  font-size: 18pt;
+  font-weight: 100;
 }
 
 .box-2 {
