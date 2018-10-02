@@ -24,7 +24,7 @@ body {
 .content {
   font-size: 0;
   height: 100%;
-  position: absolute;
+  position: relative;
   width: 100%;
   
 }
@@ -32,7 +32,7 @@ body {
 .center {
   height: auto;
   left: 50%;
-  position: relative;
+  position: absolute;
   top: 50%;
   transform: translate(-50%,-50%);
   width: auto;
