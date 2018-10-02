@@ -68,8 +68,8 @@ p {
   background-color: hsl(0, 0%, 83%, 0.3);
   border: 2px solid lightgray;
   height: 30%;
-  margin-top: 10px;
-  margin-left: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
   padding: 2px 2px 2px 2px;
   width: 12%;
 
@@ -93,7 +93,7 @@ p {
   border: 2px solid lightgray;
   height: 30%;
   width: 31%;
-  margin-top: 10px;
+  margin-top: 70px;
   margin-left: 600px;
   padding: 2px 2px 2px 2px;
   transform: translate(-50%,-50%);
@@ -104,7 +104,7 @@ p {
   border: 2px solid lightgray;
   height: 30%;
   width: 16%;
-  margin-top: 10px;
+  margin-top: 30px;
   margin-left: 700px;
   padding: 2px 2px 2px 2px;
   transform: translate(-50%,-50%);
@@ -115,7 +115,7 @@ p {
   border: 2px solid lightgray;
   height: 30%;
   width: 7%;
-  margin-top: 10px;
+  margin-top: 40px;
   margin-left: 800px;
   padding: 2px 2px 2px 2px;
   transform: translate(-50%,-50%);
