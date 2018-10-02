@@ -52,6 +52,10 @@ body {
   font-size: 22px;
 }
 
+i {
+  position: bottom left;
+}
+
 .box-1 {
   background-color: transparent;
   width: 20%;
