@@ -53,7 +53,7 @@ body {
   background-color: transparent;
   width: 20%;
   height: 20%;
-  border: 2px;
+  border: 2px solid gray;
 }
 
 .box-2 {
