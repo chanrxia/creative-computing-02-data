@@ -38,6 +38,7 @@ body {
   display: inline-block;
   vertical-align: top;
   position: relative;
+  border-radius: 25px;
 }
 
 .box-content {
