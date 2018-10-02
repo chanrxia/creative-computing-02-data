@@ -8,70 +8,99 @@ html {
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  width: 100vw;
-  height: 100vh;
-  overflow: hidden;
   background: rgb(255,161,149);
   background: -moz-linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
   background: -webkit-linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
   background: linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa195",endColorstr="#7facff",GradientType=1);
+  height: 100vh;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  width: 100vw;
+  
+  
+
 
 }
 
 .content {
   font-size: 0;
   height: 100%;
-  width: 100%;
   position: relative;
+  width: 100%;
+  
 }
 
 .center {
+  height: auto;
+  left: 50%;
   position: absolute;
   top: 50%;
-  left: 50%;
   transform: translate(-50%,-50%);
-  height: auto;
   width: auto;
 }
 
 .box {
-  width: 50%;
+  
   background-color: gray;
+  border-radius: 25px;
   color: white;
   display: block;
   vertical-align: top;
-  border-radius: 25px;
+  width: 50%;
 }
 
 .box-content {
   font-family: 'Heebo', sans-serif;
   font-weight: 100;
+}
+
+h1 {
   font-size: 22px;
 }
 
-i {
-  
+p {
+  font-size: 16px;
 }
-
 .box-1 {
   background-color: transparent;
-  width: 31%;
-  height: 40%;
+  border: 2px solid lightgray;
+  height: 30%;
   margin-top: 10px;
   margin-left: 10px;
-  border: 2px solid lightgray;
   padding: 2px 2px 2px 2px;
-
   position: absolute;
-  font-family: 'Heebo', sans-serif;
-  font-size: 14pt;
-  font-weight: 100;
+  width: 12%;
+
 }
 
 .box-2 {
-  background-color: #777;
+  background-color: transparent;
+  border: 2px solid lightgray;
+  height: 30%;
+  width: 34%;
   z-index: 1
+
+}
+
+.box-3 {
+  background-color: transparent;
+  border: 2px solid lightgray;
+  height: 30%;
+  width: 31%;
+}
+
+.box-4 {
+  background-color: transparent;
+  border: 2px solid lightgray;
+  height: 30%;
+  width: 16%;
+}
+
+.box-5 {
+  background-color: transparent;
+  border: 2px solid lightgray;
+  height: 30%;
+  width: 7%;
 }
