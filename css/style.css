@@ -130,12 +130,7 @@ p {
     width: 100%;
     font-size: 2vw;
     min-width: 50px;
-}
-
-  .box-3 {
-    width: 100%;
   }
-
 
 body {
   background: rgb(255,161,149);
@@ -166,6 +161,11 @@ p {
 
   }
 
+.box-1 {
+  margin-left: 80px;
+  margin-top: 80px;
+  }
+
 .box-2 {
   margin-left: 400px;
   margin-top: -300px;
@@ -193,8 +193,9 @@ p {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+
   .box {
-    max-width: 200px;
+    max-width: 100px;
     max-height: 100px;
   }
 
