@@ -165,8 +165,6 @@ p {
 @media only screen and (min-width: 600px) {
   .box {
     font-size: 0.4vw;
-    min-height: 250px;
-    min-width: 25vw;
     height: 250px;
 
   }
