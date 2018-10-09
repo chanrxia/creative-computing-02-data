@@ -123,6 +123,7 @@ p {
 {
   .box {
     width: 50%;
+    font-size: 5vw;
 }
   .box-3 {
     width: 100%;
