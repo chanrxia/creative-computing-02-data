@@ -40,7 +40,7 @@ body {
   border-radius: 15px;
   color: white;
   display: block;
-  width: 100%;
+  width: 50%;
 
   }
 
@@ -167,12 +167,12 @@ p {
 
 }
 
-}
+
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .box {
-    max-width: 200px:
+    max-width: 200px;
     max-height: 100px;
   }
 
