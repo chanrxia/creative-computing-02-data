@@ -192,6 +192,24 @@ p {
 
   }
 
+.box-2 {
+  margin-left: 400px;
+  margin-top: -300px;
+}
+
+.box-3 {
+  margin-left: 100px;
+  min-height: 200px;
+}
+
+.box-4 {
+  margin-left: 250px;
+  margin-top: -250px;
+}
+
+.box-5 {
+  margin-left: 200px;
+  margin-top: 0;
 
 }
 
