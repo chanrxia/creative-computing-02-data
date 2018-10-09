@@ -124,6 +124,7 @@ p {
   .box {
     width: 50%;
     font-size: 5vw;
+    min-width: 50px;
 }
   .box-3 {
     width: 100%;
