@@ -130,8 +130,8 @@ p {
 @media only screen and (min-width: 600px) {
   .box {
     font-size: 1vw;
+    min-height: 250px;
     min-width: 50px;
-    max-width: 250px;
     height: 15%;
 
   }
@@ -147,26 +147,28 @@ p {
   .box-2 {
     margin-left: 200px;
     margin-top: -200px;
-    min-height: 300px
     width: 50vw;
   }
 
   .box-3 {
     margin-left: 80px;
-    min-height: 200px;
     margin-top: 100px;
+    min-height: 300px;
+    max-width: 450px;
     width: 60vw;
+
   }
 
   .box-4 {
      margin-left: 200px;
      margin-top: -250px;
+     min-height: 270px;
      width: 40vw;
   }
 
   .box-5 {
     margin-left: 300px;
-    margin-top: 0;
+    margin-top: -200px;
     width: 30vw;
   }
 
