@@ -120,8 +120,10 @@ p {
 
 @media only screen and (min-width: 400px) {
   .box {
-    font-size: .5vw;
+    font-size: 0.53vw;
     max-width: 100px;
+    height: 15%;
+    margin-left: 300px;
 
   }
 
@@ -130,7 +132,7 @@ p {
   .box {
     min-height: 250px;
     min-width: 150px;
-    height: 20%;
+    height: 250px;
 
   }
 
