@@ -228,9 +228,56 @@ p {
 
 /* Large devices (laptops/desktops, 1025px and up) */
 @media only screen and (min-width: 1025px) {
-    .box {
+  .box {
+   min-width: 250px;
+
+  }
+
+  h1 {
+   font-size: 24px;
+   font-weight: 100;
+   margin-bottom: none;
+   line-height: 1.4;
+   text-transform: uppercase;
+
+  }
+
+  p {
+   font-size: 18px;
+   line-height: 0.6;
+
+  }
+
+ .box-1 {
+   margin-left: 100px;
+   margin-top: 80px;
+
+  }
+
+ .box-2 {
+   margin-left: 600px;
+   margin-top: -300px;
+
+  }
+
+ .box-3 {
+   margin-left: 300px;
+   min-height: 200px;
+
+  }
+
+ .box-4 {
+   margin-left: 450px;
+   margin-top: -250px;
 
   } 
+
+ .box-5 {
+   margin-left: 400px;
+   margin-top: 0;
+
+  }
+
 }
 
 /* Extra large devices (large laptops and desktops, 1400px and up) */
