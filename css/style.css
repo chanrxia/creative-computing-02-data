@@ -136,6 +136,21 @@ p {
     line-height: 1.6;
   }
 
+  h1 {
+  font-size: 18px;
+  font-weight: 100;
+  margin-bottom: none;
+  line-height: 1.0;
+  text-transform: uppercase;
+
+  }
+
+p {
+  font-size: 12px;
+  line-height: 0.3;
+
+  }
+
 }
 
 }
