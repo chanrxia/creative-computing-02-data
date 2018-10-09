@@ -56,7 +56,7 @@ body {
 h1 {
   font-size: 28px;
   font-weight: 100;
-  margin-bottom: none;
+  margin-bottom: 0;
   line-height: 1.4;
   text-transform: uppercase;
 
@@ -120,8 +120,7 @@ p {
 
 
   /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (min-width: 600px) 
-{
+@media only screen and (min-width: 600px) {
   .box {
     width: 100%;
     font-size: 2vw;
@@ -244,7 +243,7 @@ p {
   h1 {
    font-size: 24px;
    font-weight: 100;
-   margin-bottom: none;
+   margin-bottom: 0;
    line-height: 1.4;
    text-transform: uppercase;
 
