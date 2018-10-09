@@ -68,12 +68,9 @@ p {
 
 .box-1 {
   height: 25%;
-  margin-left: 80px;
-  margin-top: 80px;
   margin-left: 200px;
   margin-top: 100px;
   min-height: 200px;
-  padding: 2px 2px 2px 2px;
   width: 24vw;
   min-width: 300px;
 
@@ -84,7 +81,6 @@ p {
   margin-left: 600px;
   margin-top: -300px;
   min-height: 200px;
-  padding: 0 10px 2px 10px;
   width: 50vw;
   min-width: 350px;
 
@@ -94,7 +90,6 @@ p {
   height: 25%;
   margin-left: 100px;
   min-height: 200px;
-  padding: 0 10px 2px 10px;
   margin-top: 100px;
   width: 40vw;
   min-width: 400px;
@@ -116,7 +111,6 @@ p {
   margin-left: 600px;
   margin-top: 0;
   min-height: 200px;
-  padding: 0 10px 2px 10px;
   width: 20vw;
   min-width: 300px;
 
