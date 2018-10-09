@@ -174,47 +174,53 @@ p {
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-.box {
+ .box {
+   min-width: 150px;
 
-}
+  }
+
   h1 {
-  font-size: 20px;
-  font-weight: 100;
-  margin-bottom: none;
-  line-height: 1.0;
-  text-transform: uppercase;
+   font-size: 20px;
+   font-weight: 100;
+   margin-bottom: none;
+   line-height: 1.0;
+   text-transform: uppercase;
 
   }
 
-p {
-  font-size: 14px;
-  line-height: 0.3;
+  p {
+   font-size: 14px;
+   line-height: 0.3;
 
   }
 
-.box-1 {
-  margin-left: 100px;
-  margin-top: 80px;
+ .box-1 {
+   margin-left: 100px;
+   margin-top: 80px;
+
   }
 
-.box-2 {
-  margin-left: 400px;
-  margin-top: -300px;
+ .box-2 {
+   margin-left: 400px;
+   margin-top: -300px;
+
   }
 
-.box-3 {
-  margin-left: 100px;
-  min-height: 200px;
+ .box-3 {
+   margin-left: 100px;
+   min-height: 200px;
+
   }
 
-.box-4 {
-  margin-left: 250px;
-  margin-top: -250px;
+ .box-4 {
+   margin-left: 250px;
+   margin-top: -250px;
+
   }
 
-.box-5 {
-  margin-left: 200px;
-  margin-top: 0;
+ .box-5 {
+   margin-left: 200px;
+   margin-top: 0;
 
   }
 
