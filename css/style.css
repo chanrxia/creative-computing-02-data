@@ -118,13 +118,18 @@ p {
 
   }
 
+@media only screen and (min-width: 400px) {
+  .box {
+    font-size: 1vw;
+    max-width: 100px;
+  }
 
   /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .box {
     font-size: 1vw;
     min-width: 50px;
-    max-width: 100px;
+    max-width: 250px;
     height: 15%;
 
   }
@@ -170,9 +175,8 @@ p {
 @media only screen and (min-width: 768px) {
  .box {
    font-size: 2vw;
-   min-height: : 200px;
-   min-width: 200px;
-   height: 20%;
+   min-height: : 25vw;
+   min-width: 30vw;
 
   }
 
