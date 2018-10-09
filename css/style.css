@@ -11,7 +11,7 @@ body {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffa195",endColorstr="#7facff",GradientType=1);
   height: 100vh;
   margin: 0;
-  overflow: hidden;
+  overflow: auto;
   padding: 0;
   width: 100%;
 
