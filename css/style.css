@@ -125,6 +125,7 @@ p {
     width: 100vw;
     font-size: 2vw;
     min-width: 50px;
+    max-width: 100px;
 
   }
 
