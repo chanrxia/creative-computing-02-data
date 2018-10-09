@@ -128,7 +128,6 @@ p {
   /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .box {
-    font-size: 1vw;
     min-height: 250px;
     min-width: 150px;
     height: 20%;
@@ -187,7 +186,7 @@ p {
    margin-left: 100px;
    margin-top: 100px;
    width: 40vw;
-   height: 25%;
+   height: 25vw;
 
   }
 
@@ -195,7 +194,7 @@ p {
    margin-left: 400px;
    margin-top: -100px;
    width: 50vw;
-   height: 35%;
+   height: 35vw;
 
   }
 
@@ -203,19 +202,19 @@ p {
    margin-left: 50px;
    margin-top: 100px;
    width: 60vw;
-   height: 45%:
+   height: 45vw:
   }
 
  .box-4 {
    margin-left: 250px;
-   margin-top: -250px;
+   margin-top: -350px;
    width: 30vw;
 
   }
 
  .box-5 {
    margin-left: 200px;
-   margin-top: 0;
+   margin-top: -200px;
    width: 30vw;
   }
 
