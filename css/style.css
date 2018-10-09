@@ -168,10 +168,11 @@ p {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
  .box {
-   width: 100vw;
+   width: 20vw;
    font-size: 3vw;
    min-width: 100px;
    max-height: 200px;
+   height: 20%;
 
   }
 
