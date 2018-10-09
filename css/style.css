@@ -147,6 +147,21 @@ p {
     max-height: 100px;
   }
 
+  h1 {
+  font-size: 20px;
+  font-weight: 100;
+  margin-bottom: none;
+  line-height: 1.0;
+  text-transform: uppercase;
+
+  }
+
+p {
+  font-size: 14px;
+  line-height: 0.3;
+
+  }
+
 body {
   background: rgb(255,161,149);
   background: -moz-linear-gradient(90deg, rgba(255,161,149,0.910411622276029) 0%, rgba(190,165,207,1) 18%, rgba(127,172,255,0.9128329297820823) 100%);
