@@ -180,6 +180,7 @@ p {
    margin-left: 100px;
    margin-top: 100px;
    width: 40vw;
+   height: 25%;
 
   }
 
@@ -187,6 +188,7 @@ p {
    margin-left: 400px;
    margin-top: -100px;
    width: 50vw;
+   height: 35%;
 
   }
 
@@ -194,13 +196,14 @@ p {
    margin-left: 50px;
    margin-top: 100px;
    width: 60vw;
-
+   height: 45%:
   }
 
  .box-4 {
    margin-left: 250px;
    margin-top: -250px;
    width: 30vw;
+   
   }
 
  .box-5 {
@@ -252,7 +255,7 @@ p {
 
  .box-5 {
    margin-left: 400px;
-   margin-top: 200px;
+   margin-top: -200px;
    width: 40vw;
 
   }
