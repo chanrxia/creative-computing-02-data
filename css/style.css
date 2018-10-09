@@ -203,7 +203,7 @@ p {
    margin-left: 250px;
    margin-top: -250px;
    width: 30vw;
-   
+
   }
 
  .box-5 {
@@ -224,7 +224,7 @@ p {
 
  .box-1 {
    margin-left: 100px;
-   margin-top: 100px;
+   margin-top: 80px;
    min-height: 250px;
    width: 30vw;
 
@@ -232,7 +232,7 @@ p {
 
  .box-2 {
    margin-left: 600px;
-   margin-top: -300px;
+   margin-top: -200px;
    min-height: 250px;
    width: 50vw;
 
@@ -241,21 +241,21 @@ p {
  .box-3 {
    margin-left: 300px;
    min-height: 250px;
-   margin-top: 300px;
+   margin-top: 150px;
    width: 60vw;
 
   }
 
  .box-4 {
    margin-left: 450px;
-   margin-top: 0px;
+   margin-top: -200px;
    width: 40vw;
 
   } 
 
  .box-5 {
    margin-left: 400px;
-   margin-top: -200px;
+   margin-top: -300px;
    width: 40vw;
 
   }
