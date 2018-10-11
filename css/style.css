@@ -26,10 +26,11 @@ body {
   
   }
 
-.center {
+.center 
+.box-content.center {
   height: auto;
   left: 50%;
-  position: relative;
+  position: absolute;
   top: 50%;
   transform: translate(-50%,-50%);
   width: auto;
@@ -45,15 +46,6 @@ body {
 
   }
 
-.box-content.center {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-50%);
-  height: auto;
-  width: auto;
-  
-}
 
 
 .box-content {
