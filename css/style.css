@@ -1,6 +1,7 @@
 html {
   margin: 0;
   padding: 0;
+
   }
 
 body {
@@ -213,7 +214,7 @@ p {
 @media only screen and (min-width: 768px) {
  .box {
    font-size: 2vw;
-   min-height: 25vw;
+   min-height: 25vh;
    min-width: 30vw;
 
   }
@@ -222,7 +223,7 @@ p {
    margin-left: 100px;
    margin-top: 100px;
    width: 40vw;
-   height: 27vw;
+   height: 27vh;
 
   }
 
@@ -230,7 +231,7 @@ p {
    margin-left: 600px;
    margin-top: -100px;
    width: 50vw;
-   height: 25vw;
+   height: 25vh;
 
   }
 
@@ -238,7 +239,7 @@ p {
    margin-left: 30px;
    margin-top: -50px;
    width: 65vw;
-   height: 35vw;
+   height: 35vh;
   }
 
  .box-4 {
