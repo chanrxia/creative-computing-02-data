@@ -215,6 +215,14 @@ p {
     width: 35vw;
   }
 
+    p {
+    font-size: 14pt;
+  }
+
+  h1 {
+    font-size: 18pt;
+  }
+
 }
 
 
@@ -264,6 +272,13 @@ p {
    width: 30vw;
   }
 
+  p {
+    font-size: 18pt;
+  }
+
+  h1 {
+    font-size: 22pt;
+  }
 }
 
 /* Large devices (laptops/desktops, 1025px and up) */
@@ -311,6 +326,14 @@ p {
    margin-top: -300px;
    width: 40vw;
 
+  }
+
+  p {
+    font-size: 20pt;
+  }
+
+  h1 {
+    font-size: 24pt;
   }
 
 }
