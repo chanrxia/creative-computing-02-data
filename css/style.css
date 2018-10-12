@@ -358,8 +358,8 @@ p {
   margin-left: 200px;
   margin-top: 100px;
   min-height: 200px;
-  width: 24vw;
-  min-width: 300px;
+  width: 30vw;
+  min-width: 25vw;
 
   }
 
@@ -369,7 +369,7 @@ p {
   margin-top: -300px;
   min-height: 200px;
   width: 80vw;
-  min-width: 350px;
+  min-width: 60vw;
 
   }
 
@@ -379,7 +379,7 @@ p {
   min-height: 200px;
   margin-top: 100px;
   width: 80vw;
-  min-width: 400px;
+  min-width: 60vw;
   
   }
 
@@ -388,7 +388,7 @@ p {
   margin-top: -250px;
   min-height: 200px;
   width: 60vw;
-  min-width: 300px;
+  min-width: 50vw;
 
   }
 
@@ -398,7 +398,7 @@ p {
   margin-top: -200;
   min-height: 200px;
   width: 40vw;
-  min-width: 300px;
+  min-width: 30vw;
 
   }
 }
