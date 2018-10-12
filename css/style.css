@@ -365,30 +365,29 @@ p {
 
 .box-2 {
   height: 250px;
-  margin-left: 600px;
+  margin-left: 800px;
   margin-top: -300px;
   min-height: 200px;
-  width: 50vw;
+  width: 70vw;
   min-width: 350px;
 
   }
 
 .box-3 {
   height: 300px;
-  margin-left: 100px;
+  margin-left: 300px;
   min-height: 200px;
   margin-top: 100px;
-  width: 60vw;
+  width: 80vw;
   min-width: 400px;
   
   }
 
 .box-4 {
-  height: 250px;
   margin-left: 650px;
   margin-top: -250px;
   min-height: 200px;
-  width: 32vw;
+  width: 50vw;
   min-width: 300px;
 
   }
@@ -398,7 +397,7 @@ p {
   margin-left: 600px;
   margin-top: -200;
   min-height: 200px;
-  width: 20vw;
+  width: 30vw;
   min-width: 300px;
 
   }
