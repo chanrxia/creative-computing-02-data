@@ -230,7 +230,7 @@ p {
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
  .box {
-   min-height: 25vh;
+   min-height: 27vh;
    min-width: 30vw;
 
   }
@@ -247,15 +247,15 @@ p {
    margin-left: 600px;
    margin-top: -100px;
    width: 50vw;
-   height: 25vh;
+   height: 29vh;
 
   }
 
  .box-3 {
    margin-left: 30px;
    margin-top: -50px;
-   width: 65vw;
-   height: 35vh;
+   width: 69vw;
+   height: 38vh;
   }
 
  .box-4 {
@@ -272,11 +272,11 @@ p {
   }
 
   p {
-    font-size: 18pt;
+    font-size: 16pt;
   }
 
   h1 {
-    font-size: 22pt;
+    font-size: 20pt;
   }
 }
 
