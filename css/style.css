@@ -122,31 +122,24 @@ p {
 
 
 @media only screen and (min-width: 400px) {
-  .box {
-    max-width: 100px;
-    height: 10%;
-    margin-left: 300px;
-
-  }
-
     .box-1 {
     margin-left: 50px;
     margin-top: 80px;
-    width: 30vw;
+    width: 20vw;
 
   }
 
   .box-2 {
     margin-left: 200px;
     margin-top: -110px;
-    width: 40vw;
+    width: 30vw;
   }
 
   .box-3 {
     margin-left: 80px;
     margin-top: 80px;
     min-height: 100px;
-    width: 70vw;
+    width: 50vw;
 
   }
 
