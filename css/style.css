@@ -208,7 +208,7 @@ p {
     width: 35vw;
   }
 
-    p {
+  p {
     font-size: 14pt;
   }
 
@@ -341,43 +341,43 @@ p {
 
   }
 
-p {
- font-size: 26px;
- line-height: 0.9;
+ p {
+  font-size: 26px;
+  line-height: 0.9;
 
   }
 
-.box-1 {
-  height: 250px;
-  margin-left: 200px;
-  margin-top: 100px;
-  min-height: 200px;
-  width: 30vw;
-  min-width: 25vw;
+ .box-1 {
+   height: 250px;
+   margin-left: 200px;
+   margin-top: 100px;
+   min-height: 200px;
+   width: 30vw;
+   min-width: 25vw;
 
   }
 
-.box-2 {
-  height: 250px;
-  margin-left: 800px;
-  margin-top: -300px;
-  min-height: 200px;
-  width: 65vw;
-  min-width: 60vw;
+ .box-2 {
+   height: 250px;
+   margin-left: 800px;
+   margin-top: -300px;
+   min-height: 200px;
+   width: 65vw;
+   min-width: 60vw;
 
   }
 
-.box-3 {
-  height: 300px;
-  margin-left: 200px;
-  min-height: 200px;
-  margin-top: 100px;
-  width: 55vw;
-  min-width: 30vw;
+ .box-3 {
+   height: 300px;
+   margin-left: 200px;
+   min-height: 200px;
+   margin-top: 100px;
+   width: 55vw;
+   min-width: 30vw;
   
   }
 
-.box-4 {
+ .box-4 {
   margin-left: 650px;
   margin-top: -250px;
   min-height: 200px;
@@ -386,7 +386,7 @@ p {
 
   }
 
-.box-5 {
+ .box-5 {
   height: 350px;
   margin-left: 600px;
   margin-top: -100;
