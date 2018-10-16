@@ -131,21 +131,21 @@ p {
   .box-1 {
     margin-left: 50px;
     margin-top: 80px;
-    width: 20vw;
+    width: 15vw;
 
   }
 
   .box-2 {
     margin-left: 200px;
     margin-top: -110px;
-    width: 30vw;
+    width: 20vw;
   }
 
   .box-3 {
     margin-left: 20px;
     margin-top: 80px;
     min-height: 100px;
-    width: 45vw;
+    width: 40vw;
 
   }
 
@@ -153,13 +153,13 @@ p {
      margin-left: 200px;
      margin-top: -250px;
      min-height: 100px;
-     width: 40vw;
+     width: 30vw;
   }
 
   .box-5 {
     margin-left: 250px;
-    margin-top: -190px;
-    width: 35vw;
+    margin-top: -100px;
+    width: 25vw;
   }
 
   p {
