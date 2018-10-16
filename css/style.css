@@ -366,7 +366,7 @@ p {
   }
 
  .box-2 {
-   height: 450px;
+   height: 750px;
    margin-left: 600px;
    margin-top: -150px;
    width: 45vw;
@@ -377,7 +377,7 @@ p {
  .box-3 {
    height: 480px;
    margin-left: 160px;
-   margin-top: -150px;
+   margin-top: -100px;
    width: 50vw;
    min-width: 30vw;
   
@@ -394,7 +394,7 @@ p {
 
  .box-5 {
   height: 350px;
-  margin-left: 600px;
+  margin-left: 400px;
   margin-top: -300;
   width: 40vw;
   min-width: 20vw;
