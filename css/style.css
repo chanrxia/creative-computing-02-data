@@ -176,8 +176,7 @@ p {
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .box {
-    font-size: 0.4vw;
-    max-height: 30vh;
+    max-height: 20vh;
 
   }
 
