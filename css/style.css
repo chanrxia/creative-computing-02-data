@@ -131,6 +131,7 @@ p {
   .box-1 {
     margin-left: 10px;
     margin-top: 10px;
+    min-height: 100px;
     width: 15vw;
 
   }
@@ -143,7 +144,7 @@ p {
 
   .box-3 {
     margin-left: 20px;
-    margin-top: 80px;
+    margin-top: 280px;
     width: 40vw;
 
   }
@@ -157,9 +158,9 @@ p {
 
   .box-5 {
     margin-left: 250px;
-    margin-top: 100px;
-    width: 25vw;
+    margin-top: 250px;
     min-height: 100px;
+    width: 25vw;
 }
 
   p {
