@@ -341,11 +341,6 @@ p {
 /* Extra large devices (large laptops and desktops, 1400px and up) */
 @media only screen and (min-width: 1400px) {
 
-.box {
-  min-height: 300px;
-
-  }
-
  h1 {
   font-size: 32px;
   line-height: 1.6;
@@ -369,7 +364,7 @@ p {
   }
 
  .box-2 {
-   height: 250px;
+   height: 450px;
    margin-left: 500px;
    margin-top: -150px;
    min-height: 200px;
@@ -379,7 +374,7 @@ p {
   }
 
  .box-3 {
-   height: 380px;
+   height: 420px;
    margin-left: 160px;
    min-height: 250px;
    margin-top: -100px;
@@ -389,11 +384,12 @@ p {
   }
 
  .box-4 {
+  height: 320px;
   margin-left: 650px;
   margin-top: -250px;
   min-height: 200px;
-  width: 30vw;
   min-width: 20vw;
+  width: 30vw;
 
   }
 
