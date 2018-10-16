@@ -144,7 +144,7 @@ p {
   .box-3 {
     margin-left: 20px;
     margin-top: 80px;
-    min-height: 100px;
+    
     width: 40vw;
 
   }
@@ -160,7 +160,8 @@ p {
     margin-left: 250px;
     margin-top: 10px;
     width: 25vw;
-  }
+    min-height: 100px;
+}
 
   p {
     font-size: 10pt;
