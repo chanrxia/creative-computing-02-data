@@ -197,7 +197,7 @@ p {
 
   .box-3 {
     margin-left: 20px;
-    margin-top: -32px;
+    margin-top: -22px;
     min-height: 200px;
     width: 60vw;
 
@@ -205,13 +205,13 @@ p {
 
   .box-4 {
      margin-left: 320px;
-     margin-top: -30px;
+     margin-top: -20px;
      width: 45vw;
   }
 
   .box-5 {
     margin-left: 200px;
-    margin-top: -10px;
+    margin-top: 2px;
     width: 35vw;
   }
 
