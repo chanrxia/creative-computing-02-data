@@ -139,13 +139,15 @@ p {
   .box-2 {
     margin-left: 210px;
     margin-top: -26px;
+    min-height: 100px;
     width: 13vw;
   }
 
   .box-3 {
     margin-left: 20px;
     margin-top: -15px;
-    width: 30vw;
+    min-height: 180px;
+    width: 25vw;
 
   }
 
