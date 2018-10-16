@@ -341,6 +341,11 @@ p {
 /* Extra large devices (large laptops and desktops, 1400px and up) */
 @media only screen and (min-width: 1400px) {
 
+.box {
+    min-height: 200px;
+
+  }
+
  h1 {
   font-size: 32px;
   line-height: 1.6;
