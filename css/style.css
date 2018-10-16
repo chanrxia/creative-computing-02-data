@@ -145,20 +145,20 @@ p {
     margin-left: 20px;
     margin-top: 80px;
     min-height: 100px;
-    width: 50vw;
+    width: 45vw;
 
   }
 
   .box-4 {
      margin-left: 200px;
-     margin-top: -300px;
+     margin-top: -250px;
      min-height: 100px;
      width: 40vw;
   }
 
   .box-5 {
     margin-left: 250px;
-    margin-top: -290px;
+    margin-top: -190px;
     width: 35vw;
   }
 
