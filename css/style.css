@@ -124,7 +124,7 @@ p {
 @media only screen and (min-width: 400px) {
   .box {
     font-size: 0.4vw;
-    max-height: 25vh;
+    max-height: 20vh;
 
   }
 
@@ -142,7 +142,7 @@ p {
   }
 
   .box-3 {
-    margin-left: 80px;
+    margin-left: 20px;
     margin-top: 80px;
     min-height: 100px;
     width: 50vw;
@@ -151,13 +151,13 @@ p {
 
   .box-4 {
      margin-left: 200px;
-     margin-top: -250px;
+     margin-top: -300px;
      min-height: 100px;
      width: 40vw;
   }
 
   .box-5 {
-    margin-left: 300px;
+    margin-left: 250px;
     margin-top: -90px;
     width: 35vw;
   }
