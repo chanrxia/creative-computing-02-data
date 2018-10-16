@@ -369,7 +369,7 @@ p {
    margin-top: -300px;
    min-height: 200px;
    width: 65vw;
-   min-width: 45vw;
+   min-width: 35vw;
 
   }
 
@@ -398,7 +398,7 @@ p {
   margin-top: -100;
   min-height: 200px;
   width: 40vw;
-  min-width: 30vw;
+  min-width: 20vw;
 
   }
 }
